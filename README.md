@@ -11,19 +11,19 @@ The following commands can be used to generate different filtered images.<br/>
 
 EXAMPLE: <br/>
 Sample input: <br/>
-![original yard image]()
+![original tower image](https://github.com/arpitmeher/filter-CS50x-2021/blob/main/images/tower.bmp)
 
 Output of Grayscale Filter:<br/>
-![Grayscale]()
+![Grayscale](https://github.com/arpitmeher/filter-CS50x-2021/blob/main/tower_g.bmp)
 
 Output of reflection Filter:<br/>
-![reflection]()
+![reflection](https://github.com/arpitmeher/filter-CS50x-2021/blob/main/tower_r.bmp)
 
 Output of blur Filter:<br/>
-![blurred]()
+![blurred](https://github.com/arpitmeher/filter-CS50x-2021/blob/main/tower_b.bmp)
 
 Output of edges Filter:<br/>
-![edges]()
+![edges](https://github.com/arpitmeher/filter-CS50x-2021/blob/main/tower_e.bmp)
 
 
 
