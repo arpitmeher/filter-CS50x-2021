@@ -9,6 +9,23 @@ The following commands can be used to generate different filtered images.<br/>
 ```$ ./filter -b INFILE.bmp OUTFILE.bmp``` <br/>
 ```$ ./filter -e INFILE.bmp OUTFILE.bmp``` <br/>
 
+EXAMPLE: <br/>
+Sample input: <br/>
+![original yard image]()
+
+Output of Grayscale Filter:<br/>
+![Grayscale]()
+
+Output of reflection Filter:<br/>
+![reflection]()
+
+Output of blur Filter:<br/>
+![blurred]()
+
+Output of edges Filter:<br/>
+![edges]()
+
+
 
 
 
